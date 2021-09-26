@@ -106,26 +106,7 @@ if __name__ == '__main__':
     main()
         
             
-        
-       
-        
-       
-        
-        
-'''n=int(input())
-
-a=[]
-b=[]
-for i in range(n):
-    line=input()
-    row=[]
-    for item in line.split():
-        row.append(float(item))
-        
-    a.append(row)'''
-    
-    
-    
+ 
     
     
     
